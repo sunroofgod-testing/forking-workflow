@@ -1,4 +1,4 @@
 The purpose of this text file is to test if devs 
-- are able to gitpull from their fork branches
+- are able to gitpull from their fork branches.
     (that have the upstream reference set as the main production repo)
-- if the upstream pointers are actually changed and pointing to the right branch of the repo
+- if the upstream pointers are actually changed and pointing to the right branch of the repo.
